@@ -1,9 +1,10 @@
 import './styles/App.css'
+import './styles/index.css'
 
 function App() {
   return (
     <>
-      <div className="text-red-500">vfdvdf</div>
+      <div className="">dfdfd</div>
     </>
   )
 }
