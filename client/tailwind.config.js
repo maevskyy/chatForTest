@@ -12,7 +12,6 @@ export default {
         'red': '#F71735',
         'black': '#011627',
         'navy': '#707991',
-
 }
     },
   },

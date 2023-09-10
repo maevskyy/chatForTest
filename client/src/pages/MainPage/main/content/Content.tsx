@@ -1,8 +1,12 @@
+import Message from "../message/Message.tsx";
+
 type Props = {};
 
 const Content = (props: Props) => {
     return (
-        <header>Content34343434</header>
+        <section className={''}>
+            <Message/>
+        </section>
     )
 };
 
