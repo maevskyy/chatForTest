@@ -8,7 +8,7 @@ const UserList = (props: Props) => {
 	return (
 		<section>
 			{error ? (
-				<h1>У тебя нету друзей</h1>
+				<h1>У тебя нету друзей.</h1>
 			) : (
 				<>
 					{fakeDATA.map((user) => (
