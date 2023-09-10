@@ -5,7 +5,7 @@ type Props = {};
 
 const Main = (props: Props) => {
 	return (
-		<main className={` h-screen w-screen bg-amber-100`}>
+		<main className={` h-screen w-9/12 bg-amber-100`}>
 			<Header/>
 			<Content/>
 		</main>
