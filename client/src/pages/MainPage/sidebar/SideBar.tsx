@@ -6,7 +6,7 @@ type Props = {}
 
 const SideBar = (props: Props) => {
   return (
-    <nav className='w-3/12 flex flex-col gap-2'>
+    <nav className='w-3/12 flex flex-col gap-2 border-r'>
         <Header/>
         <UserList/>
     </nav>
