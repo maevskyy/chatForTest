@@ -12,8 +12,15 @@ export default {
         'red': '#F71735',
         'black': '#011627',
         'navy': '#707991',
-}
+},
+      screens: {
+        sm: '480px',
+        md: '768px',
+        lg: '976px',
+        xl: '1440px',
+      },
     },
+
   },
   plugins: [],
 }
